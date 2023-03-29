@@ -1,0 +1,11 @@
+name: map-of-activities
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - folium
+  - geopandas
+  - jupyter
+  - pandas
+  - pyobis
+  - requests
